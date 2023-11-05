@@ -1,0 +1,38 @@
+
+body {
+  font-family: Arial, sans-serif;
+  background-image: url("image1.jpg");
+}
+
+header {
+  background-color: #333;
+  color: white;
+  padding: 10px;
+  text-align: center;
+}
+
+nav {
+  background-color: #555;
+  padding: 10px;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+  margin: 10px;
+}
+
+/* Specific styles for individual pages */
+/* Add more specific styles for each page as needed */
+
+/* Styles for the "services" page */
+.services {
+  background-color: #f7f7f7;
+  padding: 20px;
+}
+
+.service-item {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin: 10px;
+}
